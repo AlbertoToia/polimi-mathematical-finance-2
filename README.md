@@ -47,3 +47,12 @@ Modify the parameters at the bottom of the script (`s_0`, `sigma`, `r`, `K`, `T`
 python black_scholes.py
 ```
 It will output a neatly formatted console report detailing intermediate calculation steps, theoretical prices, and the Greeks for both call and put variations.
+
+---
+
+## Web Calculator 
+If you prefer not to use the Python script, you can use my interactive **Web-based Black-Scholes Calculator**, which I built using the same underlying logic. 
+
+**[Try the Web Calculator Here](https://www.albertotoia.com/bs-calc)**
+
+![Web Calculator Interface Preview](images/bs-calc-web.png)
